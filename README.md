@@ -28,6 +28,7 @@ Update the default paths for the image folder and audio file in the code if nece
 ## Run the Application:
 Open a terminal or command prompt in your project directory and run:
 - python app.py
+  
 This will start the Flask development server.
 ## Access the Application: 
 Open your web browser and navigate to http://127.0.0.1:5000/. You will see the video generator form.
