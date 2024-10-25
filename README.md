@@ -21,15 +21,13 @@ This application is useful for users looking to automate the process of creating
 
 ## Create a Project Directory: 
 Create a new directory for your project:
-mkdir video_generator
-cd video_generator
 ## Create the Application File:
 Create a new Python file (e.g., app.py) and copy the provided Flask code into this file.
 ## Configure Default Paths:
 Update the default paths for the image folder and audio file in the code if necessary. Make sure these directories exist and contain valid images and audio files.
 ## Run the Application:
 Open a terminal or command prompt in your project directory and run:
-python app.py
+## python app.py
 This will start the Flask development server.
 ## Access the Application: 
 Open your web browser and navigate to http://127.0.0.1:5000/. You will see the video generator form.
